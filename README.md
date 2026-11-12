@@ -62,3 +62,9 @@ IMDB Dataset.csv    50,000 labelled IMDB reviews
 ## Tech stack
 
 Python · scikit-learn · pandas · Streamlit · MLflow · Microsoft Azure Machine Learning
+
+
+
+
+
+<img width="1538" height="826" alt="image" src="https://github.com/user-attachments/assets/bf174a62-e50d-4d00-ba25-60299151e31f" />
