@@ -2,7 +2,7 @@
 
 Predicts whether a movie review is **positive** or **negative**, using **TF-IDF + Logistic Regression** trained on 50,000 IMDB reviews, with a **Streamlit** web interface.
 
-**Live demo:** https://YOUR-APP-NAME.streamlit.app
+**Live demo:** [https://YOUR-APP-NAME.streamlit.app](https://imdb-sentiment-somustafa.streamlit.app/)
 
 The same app runs in three environments:
 
